@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dungtran201093
+- 👋 Hi, I’m Dzung Do
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
